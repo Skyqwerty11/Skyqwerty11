@@ -1,0 +1,1705 @@
+== [[User:LinkTiger]] ==
+
+Dihasilkan menggunakan [https://xtools.wmcloud.org/ec/en.wikipedia.org/LinkTiger XTools] pada 2024-10-02 18:11
+
+=== Statistik umum ===
+
+{| class="wikitable sortable"
+| ID pengguna
+| 186125
+|-
+| Waktu pendaftaran
+| 2005-02-28 01:51
+|-
+| Kelompok pengguna
+| pengguna terkonfirmasi diperluas, pengguna terkonfirmasi otomatis
+|-
+| Merupakan pengurus?
+| 0
+|-
+| Suntingan pertama
+| [[Special:Diff/11028229|2005-02-28 01:51]]
+|-
+| Suntingan terakhir
+| [[Special:Diff/1248863018|2024-10-01 21:20]]
+|-
+| Tindakan tercatat terakhir
+| [[Special:Log/redirect/logid/164124531|2024-08-29 20:07]]
+|-
+| Ucapan terima kasih yang diterima
+| [https://en.wikipedia.org/wiki/Special:Log?page=User%3ALinkTiger&amp;type=thanks {{FORMATNUM:31}}]
+|-
+| Suntingan hidup
+| [[Special:Contributions/LinkTiger|{{FORMATNUM:3044}}]] (95,9%)
+|-
+| Suntingan terhapus
+| [[Special:DeletedContributions/LinkTiger|{{FORMATNUM:131}}]] (4,1%)
+|-
+| Total suntingan
+| {{FORMATNUM:3175}}
+|-
+| Suntingan dalam 24 jam terakhir
+| {{FORMATNUM:1}}
+|-
+| Suntingan dalam 7 hari terakhir
+| {{FORMATNUM:2}}
+|-
+| Suntingan dalam 30 hari terakhir
+| {{FORMATNUM:8}}
+|-
+| Suntingan dalam 365 hari terakhir
+| {{FORMATNUM:23}}
+|-
+| Rata-rata suntingan per hari
+| {{FORMATNUM:0.444}} ({{FORMATNUM:7155}} hari)
+|-
+| Rata-rata ukuran suntingan*
+| {{FORMATNUM:174.2}} bita
+|-
+| Suntingan kecil
+| {{FORMATNUM:721}} (23,7%)
+|-
+| Suntingan sederhana (<20 bita)*
+| {{FORMATNUM:1694}} (55,7%)
+|-
+| Suntingan besar (>1000 bita)*
+| {{FORMATNUM:143}} (4,7%)
+|}
+
+=== Halaman ===
+
+{| class="wikitable sortable"
+| Halaman tersunting (total)
+| {{FORMATNUM:1820}}
+|-
+| Rata-rata suntingan per halaman
+| {{FORMATNUM:1.745}}
+|-
+| Halaman yang dibuat
+| [https://xtools.wmcloud.org/pages/en.wikipedia.org/LinkTiger/all {{FORMATNUM:224}}] (22 terhapus setelahnya)
+|-
+| Halaman terpindah
+| [[Special:Log/move/LinkTiger|{{FORMATNUM:9}}]]
+|-
+|}
+
+=== Berkas ===
+
+{| class="wikitable sortable"
+| Berkas terunggah
+| [https://en.wikipedia.org/wiki/Special%3ALog%2Fupload%2FLinkTiger?subtype=upload {{FORMATNUM:28}}]
+|-
+| Berkas terunggah (Commons)
+| [https://commons.wikimedia.org/wiki/Special:Log?type=upload&subtype=upload&user=LinkTiger {{FORMATNUM:34}}]
+|-
+|}
+
+
+=== Tindakan ===
+
+{| class="wikitable sortable"
+| Berterimakasih
+| [[Special:Log/thanks/LinkTiger|{{FORMATNUM:10}}]]
+|-
+| Menyetujui
+| [https://en.wikipedia.org/wiki/Special%3ALog%2Freview%2FLinkTiger?&amp;subtype=accept {{FORMATNUM:0}}]
+|-
+| Berpatroli
+| [[Special:Log/patrol/LinkTiger|{{FORMATNUM:0}}]]
+|-
+| Membuat akun
+| [[Special:Log/newusers/LinkTiger|{{FORMATNUM:0}}]]
+|-
+|}
+
+=== Pemblokiran (ulang) ===
+
+{| class="wikitable sortable"
+| Pemblokiran terpanjang
+| &ndash;
+|-
+| Pemblokiran saat ini
+| &ndash;
+|-
+|}
+
+=== Jumlah suntingan global (perkiraan) ===
+
+{| class="wikitable sortable"
+|-
+| &#9658;[https://en.wikipedia.org/wiki/Special%3AContributions%2FLinkTiger en.wikipedia.org]
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger {{FORMATNUM:3139}}]
+|-
+| [https://www.wikidata.org/wiki/Special%3AContributions%2FLinkTiger www.wikidata.org]
+| [https://xtools.wmcloud.org/topedits/www.wikidata.org/LinkTiger {{FORMATNUM:390}}]
+|-
+| [https://commons.wikimedia.org/wiki/Special%3AContributions%2FLinkTiger commons.wikimedia.org]
+| [https://xtools.wmcloud.org/topedits/commons.wikimedia.org/LinkTiger {{FORMATNUM:205}}]
+|-
+| [https://en.wiktionary.org/wiki/Special%3AContributions%2FLinkTiger en.wiktionary.org]
+| [https://xtools.wmcloud.org/topedits/en.wiktionary.org/LinkTiger {{FORMATNUM:20}}]
+|-
+| [https://simple.wikipedia.org/wiki/Special%3AContributions%2FLinkTiger simple.wikipedia.org]
+| [https://xtools.wmcloud.org/topedits/simple.wikipedia.org/LinkTiger {{FORMATNUM:11}}]
+|-
+| [https://meta.wikimedia.org/wiki/Special%3AContributions%2FLinkTiger meta.wikimedia.org]
+| [https://xtools.wmcloud.org/topedits/meta.wikimedia.org/LinkTiger {{FORMATNUM:10}}]
+|-
+| [https://en.wikiquote.org/wiki/Special%3AContributions%2FLinkTiger en.wikiquote.org]
+| [https://xtools.wmcloud.org/topedits/en.wikiquote.org/LinkTiger {{FORMATNUM:6}}]
+|-
+| [https://en.wikisource.org/wiki/Special%3AContributions%2FLinkTiger en.wikisource.org]
+| [https://xtools.wmcloud.org/topedits/en.wikisource.org/LinkTiger {{FORMATNUM:5}}]
+|-
+| [https://en.wikinews.org/wiki/Special%3AContributions%2FLinkTiger en.wikinews.org]
+| [https://xtools.wmcloud.org/topedits/en.wikinews.org/LinkTiger {{FORMATNUM:4}}]
+|-
+| [https://en.wikiversity.org/wiki/Special%3AContributions%2FLinkTiger en.wikiversity.org]
+| [https://xtools.wmcloud.org/topedits/en.wikiversity.org/LinkTiger {{FORMATNUM:4}}]
+|-
+|}
+
+<nowiki>*</nowiki> Data dibatasi hingga 5.000 suntingan terakhir
+
+=== Total Ruang Nama ===
+
+{| class="wikitable sortable"
+|-
+! Peringkat
+! Ruang nama
+! Jumlah
+|-
+| 1
+| Utama
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0 {{FORMATNUM:2642}}] (86,8%)
+|-
+| 2
+| User talk
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3 {{FORMATNUM:143}}] (4,7%)
+|-
+| 3
+| Talk
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1 {{FORMATNUM:66}}] (2,2%)
+|-
+| 4
+| User
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/2 {{FORMATNUM:62}}] (2%)
+|-
+| 5
+| Template
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10 {{FORMATNUM:54}}] (1,8%)
+|-
+| 6
+| Wikipedia
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4 {{FORMATNUM:30}}] (1%)
+|-
+| 7
+| File
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6 {{FORMATNUM:26}}] (0,9%)
+|-
+| 8
+| Category
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14 {{FORMATNUM:11}}] (0,4%)
+|-
+| 9
+| Template talk
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/11 {{FORMATNUM:8}}] (0,3%)
+|-
+| 10
+| Wikipedia talk
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/5 {{FORMATNUM:1}}] (0%)
+|-
+| 11
+| Module talk
+| [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/829 {{FORMATNUM:1}}] (0%)
+|-
+!
+! 11 ruang nama
+! {{FORMATNUM:3044}}
+|}
+
+=== Jumlah tahunan ===
+
+{| class="wikitable sortable"
+! Tahun
+! Jumlah
+|-
+| 2005
+| {{FORMATNUM:21}}
+|-
+| 2006
+| {{FORMATNUM:45}}
+|-
+| 2007
+| {{FORMATNUM:208}}
+|-
+| 2008
+| {{FORMATNUM:251}}
+|-
+| 2009
+| {{FORMATNUM:65}}
+|-
+| 2010
+| {{FORMATNUM:46}}
+|-
+| 2011
+| {{FORMATNUM:394}}
+|-
+| 2012
+| {{FORMATNUM:240}}
+|-
+| 2013
+| {{FORMATNUM:76}}
+|-
+| 2014
+| {{FORMATNUM:46}}
+|-
+| 2015
+| {{FORMATNUM:107}}
+|-
+| 2016
+| {{FORMATNUM:243}}
+|-
+| 2017
+| {{FORMATNUM:175}}
+|-
+| 2018
+| {{FORMATNUM:284}}
+|-
+| 2019
+| {{FORMATNUM:418}}
+|-
+| 2020
+| {{FORMATNUM:92}}
+|-
+| 2021
+| {{FORMATNUM:59}}
+|-
+| 2022
+| {{FORMATNUM:206}}
+|-
+| 2023
+| {{FORMATNUM:46}}
+|-
+| 2024
+| {{FORMATNUM:22}}
+|-
+|}
+
+=== Jumlah bulanan ===
+
+{| class="wikitable sortable"
+! Bulan
+! Jumlah
+|-
+| 2005-02
+| {{FORMATNUM:1}}
+|-
+| 2005-03
+| {{FORMATNUM:0}}
+|-
+| 2005-04
+| {{FORMATNUM:0}}
+|-
+| 2005-05
+| {{FORMATNUM:1}}
+|-
+| 2005-06
+| {{FORMATNUM:1}}
+|-
+| 2005-07
+| {{FORMATNUM:0}}
+|-
+| 2005-08
+| {{FORMATNUM:8}}
+|-
+| 2005-09
+| {{FORMATNUM:4}}
+|-
+| 2005-10
+| {{FORMATNUM:1}}
+|-
+| 2005-11
+| {{FORMATNUM:0}}
+|-
+| 2005-12
+| {{FORMATNUM:5}}
+|-
+| 2006-01
+| {{FORMATNUM:7}}
+|-
+| 2006-02
+| {{FORMATNUM:5}}
+|-
+| 2006-03
+| {{FORMATNUM:4}}
+|-
+| 2006-04
+| {{FORMATNUM:6}}
+|-
+| 2006-05
+| {{FORMATNUM:6}}
+|-
+| 2006-06
+| {{FORMATNUM:5}}
+|-
+| 2006-07
+| {{FORMATNUM:2}}
+|-
+| 2006-08
+| {{FORMATNUM:1}}
+|-
+| 2006-09
+| {{FORMATNUM:0}}
+|-
+| 2006-10
+| {{FORMATNUM:2}}
+|-
+| 2006-11
+| {{FORMATNUM:1}}
+|-
+| 2006-12
+| {{FORMATNUM:6}}
+|-
+| 2007-01
+| {{FORMATNUM:12}}
+|-
+| 2007-02
+| {{FORMATNUM:18}}
+|-
+| 2007-03
+| {{FORMATNUM:26}}
+|-
+| 2007-04
+| {{FORMATNUM:43}}
+|-
+| 2007-05
+| {{FORMATNUM:34}}
+|-
+| 2007-06
+| {{FORMATNUM:6}}
+|-
+| 2007-07
+| {{FORMATNUM:1}}
+|-
+| 2007-08
+| {{FORMATNUM:13}}
+|-
+| 2007-09
+| {{FORMATNUM:14}}
+|-
+| 2007-10
+| {{FORMATNUM:25}}
+|-
+| 2007-11
+| {{FORMATNUM:11}}
+|-
+| 2007-12
+| {{FORMATNUM:5}}
+|-
+| 2008-01
+| {{FORMATNUM:25}}
+|-
+| 2008-02
+| {{FORMATNUM:18}}
+|-
+| 2008-03
+| {{FORMATNUM:14}}
+|-
+| 2008-04
+| {{FORMATNUM:43}}
+|-
+| 2008-05
+| {{FORMATNUM:20}}
+|-
+| 2008-06
+| {{FORMATNUM:9}}
+|-
+| 2008-07
+| {{FORMATNUM:24}}
+|-
+| 2008-08
+| {{FORMATNUM:16}}
+|-
+| 2008-09
+| {{FORMATNUM:33}}
+|-
+| 2008-10
+| {{FORMATNUM:20}}
+|-
+| 2008-11
+| {{FORMATNUM:24}}
+|-
+| 2008-12
+| {{FORMATNUM:5}}
+|-
+| 2009-01
+| {{FORMATNUM:10}}
+|-
+| 2009-02
+| {{FORMATNUM:3}}
+|-
+| 2009-03
+| {{FORMATNUM:3}}
+|-
+| 2009-04
+| {{FORMATNUM:9}}
+|-
+| 2009-05
+| {{FORMATNUM:6}}
+|-
+| 2009-06
+| {{FORMATNUM:0}}
+|-
+| 2009-07
+| {{FORMATNUM:6}}
+|-
+| 2009-08
+| {{FORMATNUM:5}}
+|-
+| 2009-09
+| {{FORMATNUM:8}}
+|-
+| 2009-10
+| {{FORMATNUM:7}}
+|-
+| 2009-11
+| {{FORMATNUM:5}}
+|-
+| 2009-12
+| {{FORMATNUM:3}}
+|-
+| 2010-01
+| {{FORMATNUM:3}}
+|-
+| 2010-02
+| {{FORMATNUM:12}}
+|-
+| 2010-03
+| {{FORMATNUM:4}}
+|-
+| 2010-04
+| {{FORMATNUM:6}}
+|-
+| 2010-05
+| {{FORMATNUM:5}}
+|-
+| 2010-06
+| {{FORMATNUM:0}}
+|-
+| 2010-07
+| {{FORMATNUM:3}}
+|-
+| 2010-08
+| {{FORMATNUM:6}}
+|-
+| 2010-09
+| {{FORMATNUM:2}}
+|-
+| 2010-10
+| {{FORMATNUM:2}}
+|-
+| 2010-11
+| {{FORMATNUM:3}}
+|-
+| 2010-12
+| {{FORMATNUM:0}}
+|-
+| 2011-01
+| {{FORMATNUM:7}}
+|-
+| 2011-02
+| {{FORMATNUM:6}}
+|-
+| 2011-03
+| {{FORMATNUM:4}}
+|-
+| 2011-04
+| {{FORMATNUM:3}}
+|-
+| 2011-05
+| {{FORMATNUM:3}}
+|-
+| 2011-06
+| {{FORMATNUM:3}}
+|-
+| 2011-07
+| {{FORMATNUM:6}}
+|-
+| 2011-08
+| {{FORMATNUM:7}}
+|-
+| 2011-09
+| {{FORMATNUM:38}}
+|-
+| 2011-10
+| {{FORMATNUM:166}}
+|-
+| 2011-11
+| {{FORMATNUM:83}}
+|-
+| 2011-12
+| {{FORMATNUM:68}}
+|-
+| 2012-01
+| {{FORMATNUM:48}}
+|-
+| 2012-02
+| {{FORMATNUM:61}}
+|-
+| 2012-03
+| {{FORMATNUM:32}}
+|-
+| 2012-04
+| {{FORMATNUM:20}}
+|-
+| 2012-05
+| {{FORMATNUM:20}}
+|-
+| 2012-06
+| {{FORMATNUM:8}}
+|-
+| 2012-07
+| {{FORMATNUM:17}}
+|-
+| 2012-08
+| {{FORMATNUM:7}}
+|-
+| 2012-09
+| {{FORMATNUM:3}}
+|-
+| 2012-10
+| {{FORMATNUM:13}}
+|-
+| 2012-11
+| {{FORMATNUM:8}}
+|-
+| 2012-12
+| {{FORMATNUM:3}}
+|-
+| 2013-01
+| {{FORMATNUM:4}}
+|-
+| 2013-02
+| {{FORMATNUM:1}}
+|-
+| 2013-03
+| {{FORMATNUM:6}}
+|-
+| 2013-04
+| {{FORMATNUM:4}}
+|-
+| 2013-05
+| {{FORMATNUM:5}}
+|-
+| 2013-06
+| {{FORMATNUM:11}}
+|-
+| 2013-07
+| {{FORMATNUM:5}}
+|-
+| 2013-08
+| {{FORMATNUM:8}}
+|-
+| 2013-09
+| {{FORMATNUM:0}}
+|-
+| 2013-10
+| {{FORMATNUM:11}}
+|-
+| 2013-11
+| {{FORMATNUM:3}}
+|-
+| 2013-12
+| {{FORMATNUM:18}}
+|-
+| 2014-01
+| {{FORMATNUM:23}}
+|-
+| 2014-02
+| {{FORMATNUM:6}}
+|-
+| 2014-03
+| {{FORMATNUM:6}}
+|-
+| 2014-04
+| {{FORMATNUM:1}}
+|-
+| 2014-05
+| {{FORMATNUM:2}}
+|-
+| 2014-06
+| {{FORMATNUM:1}}
+|-
+| 2014-07
+| {{FORMATNUM:2}}
+|-
+| 2014-08
+| {{FORMATNUM:1}}
+|-
+| 2014-09
+| {{FORMATNUM:2}}
+|-
+| 2014-10
+| {{FORMATNUM:0}}
+|-
+| 2014-11
+| {{FORMATNUM:0}}
+|-
+| 2014-12
+| {{FORMATNUM:2}}
+|-
+| 2015-01
+| {{FORMATNUM:9}}
+|-
+| 2015-02
+| {{FORMATNUM:5}}
+|-
+| 2015-03
+| {{FORMATNUM:1}}
+|-
+| 2015-04
+| {{FORMATNUM:4}}
+|-
+| 2015-05
+| {{FORMATNUM:7}}
+|-
+| 2015-06
+| {{FORMATNUM:9}}
+|-
+| 2015-07
+| {{FORMATNUM:1}}
+|-
+| 2015-08
+| {{FORMATNUM:4}}
+|-
+| 2015-09
+| {{FORMATNUM:7}}
+|-
+| 2015-10
+| {{FORMATNUM:18}}
+|-
+| 2015-11
+| {{FORMATNUM:37}}
+|-
+| 2015-12
+| {{FORMATNUM:5}}
+|-
+| 2016-01
+| {{FORMATNUM:17}}
+|-
+| 2016-02
+| {{FORMATNUM:38}}
+|-
+| 2016-03
+| {{FORMATNUM:83}}
+|-
+| 2016-04
+| {{FORMATNUM:26}}
+|-
+| 2016-05
+| {{FORMATNUM:4}}
+|-
+| 2016-06
+| {{FORMATNUM:15}}
+|-
+| 2016-07
+| {{FORMATNUM:5}}
+|-
+| 2016-08
+| {{FORMATNUM:6}}
+|-
+| 2016-09
+| {{FORMATNUM:20}}
+|-
+| 2016-10
+| {{FORMATNUM:5}}
+|-
+| 2016-11
+| {{FORMATNUM:14}}
+|-
+| 2016-12
+| {{FORMATNUM:10}}
+|-
+| 2017-01
+| {{FORMATNUM:25}}
+|-
+| 2017-02
+| {{FORMATNUM:9}}
+|-
+| 2017-03
+| {{FORMATNUM:11}}
+|-
+| 2017-04
+| {{FORMATNUM:5}}
+|-
+| 2017-05
+| {{FORMATNUM:10}}
+|-
+| 2017-06
+| {{FORMATNUM:10}}
+|-
+| 2017-07
+| {{FORMATNUM:21}}
+|-
+| 2017-08
+| {{FORMATNUM:33}}
+|-
+| 2017-09
+| {{FORMATNUM:16}}
+|-
+| 2017-10
+| {{FORMATNUM:14}}
+|-
+| 2017-11
+| {{FORMATNUM:11}}
+|-
+| 2017-12
+| {{FORMATNUM:10}}
+|-
+| 2018-01
+| {{FORMATNUM:13}}
+|-
+| 2018-02
+| {{FORMATNUM:29}}
+|-
+| 2018-03
+| {{FORMATNUM:8}}
+|-
+| 2018-04
+| {{FORMATNUM:17}}
+|-
+| 2018-05
+| {{FORMATNUM:6}}
+|-
+| 2018-06
+| {{FORMATNUM:8}}
+|-
+| 2018-07
+| {{FORMATNUM:8}}
+|-
+| 2018-08
+| {{FORMATNUM:65}}
+|-
+| 2018-09
+| {{FORMATNUM:50}}
+|-
+| 2018-10
+| {{FORMATNUM:11}}
+|-
+| 2018-11
+| {{FORMATNUM:15}}
+|-
+| 2018-12
+| {{FORMATNUM:54}}
+|-
+| 2019-01
+| {{FORMATNUM:64}}
+|-
+| 2019-02
+| {{FORMATNUM:22}}
+|-
+| 2019-03
+| {{FORMATNUM:22}}
+|-
+| 2019-04
+| {{FORMATNUM:4}}
+|-
+| 2019-05
+| {{FORMATNUM:4}}
+|-
+| 2019-06
+| {{FORMATNUM:50}}
+|-
+| 2019-07
+| {{FORMATNUM:89}}
+|-
+| 2019-08
+| {{FORMATNUM:56}}
+|-
+| 2019-09
+| {{FORMATNUM:19}}
+|-
+| 2019-10
+| {{FORMATNUM:46}}
+|-
+| 2019-11
+| {{FORMATNUM:17}}
+|-
+| 2019-12
+| {{FORMATNUM:25}}
+|-
+| 2020-01
+| {{FORMATNUM:18}}
+|-
+| 2020-02
+| {{FORMATNUM:13}}
+|-
+| 2020-03
+| {{FORMATNUM:11}}
+|-
+| 2020-04
+| {{FORMATNUM:2}}
+|-
+| 2020-05
+| {{FORMATNUM:5}}
+|-
+| 2020-06
+| {{FORMATNUM:2}}
+|-
+| 2020-07
+| {{FORMATNUM:16}}
+|-
+| 2020-08
+| {{FORMATNUM:9}}
+|-
+| 2020-09
+| {{FORMATNUM:3}}
+|-
+| 2020-10
+| {{FORMATNUM:7}}
+|-
+| 2020-11
+| {{FORMATNUM:3}}
+|-
+| 2020-12
+| {{FORMATNUM:3}}
+|-
+| 2021-01
+| {{FORMATNUM:1}}
+|-
+| 2021-02
+| {{FORMATNUM:2}}
+|-
+| 2021-03
+| {{FORMATNUM:1}}
+|-
+| 2021-04
+| {{FORMATNUM:1}}
+|-
+| 2021-05
+| {{FORMATNUM:2}}
+|-
+| 2021-06
+| {{FORMATNUM:2}}
+|-
+| 2021-07
+| {{FORMATNUM:0}}
+|-
+| 2021-08
+| {{FORMATNUM:7}}
+|-
+| 2021-09
+| {{FORMATNUM:0}}
+|-
+| 2021-10
+| {{FORMATNUM:39}}
+|-
+| 2021-11
+| {{FORMATNUM:3}}
+|-
+| 2021-12
+| {{FORMATNUM:1}}
+|-
+| 2022-01
+| {{FORMATNUM:4}}
+|-
+| 2022-02
+| {{FORMATNUM:2}}
+|-
+| 2022-03
+| {{FORMATNUM:29}}
+|-
+| 2022-04
+| {{FORMATNUM:8}}
+|-
+| 2022-05
+| {{FORMATNUM:17}}
+|-
+| 2022-06
+| {{FORMATNUM:14}}
+|-
+| 2022-07
+| {{FORMATNUM:13}}
+|-
+| 2022-08
+| {{FORMATNUM:7}}
+|-
+| 2022-09
+| {{FORMATNUM:7}}
+|-
+| 2022-10
+| {{FORMATNUM:11}}
+|-
+| 2022-11
+| {{FORMATNUM:83}}
+|-
+| 2022-12
+| {{FORMATNUM:11}}
+|-
+| 2023-01
+| {{FORMATNUM:10}}
+|-
+| 2023-02
+| {{FORMATNUM:4}}
+|-
+| 2023-03
+| {{FORMATNUM:4}}
+|-
+| 2023-04
+| {{FORMATNUM:1}}
+|-
+| 2023-05
+| {{FORMATNUM:4}}
+|-
+| 2023-06
+| {{FORMATNUM:5}}
+|-
+| 2023-07
+| {{FORMATNUM:1}}
+|-
+| 2023-08
+| {{FORMATNUM:5}}
+|-
+| 2023-09
+| {{FORMATNUM:11}}
+|-
+| 2023-10
+| {{FORMATNUM:1}}
+|-
+| 2023-11
+| {{FORMATNUM:0}}
+|-
+| 2023-12
+| {{FORMATNUM:0}}
+|-
+| 2024-01
+| {{FORMATNUM:2}}
+|-
+| 2024-02
+| {{FORMATNUM:0}}
+|-
+| 2024-03
+| {{FORMATNUM:1}}
+|-
+| 2024-04
+| {{FORMATNUM:0}}
+|-
+| 2024-05
+| {{FORMATNUM:2}}
+|-
+| 2024-06
+| {{FORMATNUM:1}}
+|-
+| 2024-07
+| {{FORMATNUM:1}}
+|-
+| 2024-08
+| {{FORMATNUM:7}}
+|-
+| 2024-09
+| {{FORMATNUM:7}}
+|-
+| 2024-10
+| {{FORMATNUM:1}}
+|-
+|}
+
+
+=== Kartu waktu ===
+
+{| class="wikitable"
+!
+! 0:00
+! 1:00
+! 2:00
+! 3:00
+! 4:00
+! 5:00
+! 6:00
+! 7:00
+! 8:00
+! 9:00
+! 10:00
+! 11:00
+! 12:00
+! 13:00
+! 14:00
+! 15:00
+! 16:00
+! 17:00
+! 18:00
+! 19:00
+! 20:00
+! 21:00
+! 22:00
+! 23:00
+|-
+! Minggu
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:4}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:12}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:14}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:12}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:7}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:2}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:14}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:26}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:28}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:20}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:8}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:4}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:11}}
+|-
+! Senin
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:6}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:26}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:10}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:6}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:8}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:8}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:3}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:21}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:42}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.6)" |{{FORMATNUM:56}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:43}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:43}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:21}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:38}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:45}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:51}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.8)" |{{FORMATNUM:79}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:12}}
+|-
+! Selasa
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:26}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:5}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:13}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:11}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:11}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:3}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:2}}
+| style="text-align:center; background:rgba(50, 102, 36, 1)" |{{FORMATNUM:99}}
+| style="text-align:center; background:rgba(50, 102, 36, 1)" |{{FORMATNUM:96}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:53}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:49}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:36}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:26}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:35}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.7)" |{{FORMATNUM:65}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.7)" |{{FORMATNUM:66}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:38}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:21}}
+|-
+! Rabu
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:22}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:8}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:13}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:10}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:24}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:44}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:40}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.8)" |{{FORMATNUM:84}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:53}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.6)" |{{FORMATNUM:55}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.7)" |{{FORMATNUM:66}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:47}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.7)" |{{FORMATNUM:70}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:35}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:23}}
+|-
+! Kamis
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:14}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:7}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:8}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:14}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:12}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:2}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:4}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:16}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.6)" |{{FORMATNUM:55}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:38}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:29}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:43}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:40}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.6)" |{{FORMATNUM:57}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:35}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:48}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:28}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+|-
+! Jumat
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:8}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:12}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:15}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:7}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:5}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:11}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:45}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:42}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:46}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:26}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:33}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:50}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:38}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:30}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:32}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:8}}
+|-
+! Sabtu
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:3}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:3}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:13}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:7}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:3}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:3}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:4}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:10}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:18}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:19}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:23}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:13}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:7}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:20}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:14}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:16}}
+|-
+|}
+
+Semua waktu dalam UTC.
+
+=== Suntingan teratas per ruang nama ===
+
+==== Utama ====
+
+{| class="wikitable sortable"
+! Suntingan
+! Judul halaman
+! Penilaian
+! Pranala
+|-
+| {{FORMATNUM:45}}
+| [[:University of Jamestown]]
+| [[File:Symbol_c_class.svg|20px]] C
+| [{{fullurl:Special:Log|page=University_of_Jamestown}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/University%20of%20Jamestown Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0/University%20of%20Jamestown Suntingan Teratas]
+|-
+| {{FORMATNUM:44}}
+| [[:North Dakota]]
+| [[File:Symbol_b_class.svg|20px]] B
+| [{{fullurl:Special:Log|page=North_Dakota}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/North%20Dakota Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0/North%20Dakota Suntingan Teratas]
+|-
+| {{FORMATNUM:29}}
+| [[:Heidi Heitkamp]]
+| [[File:Symbol_c_class.svg|20px]] C
+| [{{fullurl:Special:Log|page=Heidi_Heitkamp}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Heidi%20Heitkamp Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0/Heidi%20Heitkamp Suntingan Teratas]
+|-
+| {{FORMATNUM:28}}
+| [[:North Dakota Democratic–Nonpartisan League Party]]
+| [[File:Symbol_start_class.svg|20px]] Start
+| [{{fullurl:Special:Log|page=North_Dakota_Democratic–Nonpartisan_League_Party}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/North%20Dakota%20Democratic%E2%80%93Nonpartisan%20League%20Party Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0/North%20Dakota%20Democratic%E2%80%93Nonpartisan%20League%20Party Suntingan Teratas]
+|-
+| {{FORMATNUM:27}}
+| [[:Jamestown, North Dakota]]
+| [[File:Symbol_c_class.svg|20px]] C
+| [{{fullurl:Special:Log|page=Jamestown,_North_Dakota}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Jamestown,%20North%20Dakota Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0/Jamestown,%20North%20Dakota Suntingan Teratas]
+|-
+| {{FORMATNUM:24}}
+| [[:2012 United States House of Representatives election in North Dakota]]
+| [[File:Symbol_stub_class.svg|20px]] Stub
+| [{{fullurl:Special:Log|page=2012_United_States_House_of_Representatives_election_in_North_Dakota}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/2012%20United%20States%20House%20of%20Representatives%20election%20in%20North%20Dakota Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0/2012%20United%20States%20House%20of%20Representatives%20election%20in%20North%20Dakota Suntingan Teratas]
+|-
+| {{FORMATNUM:24}}
+| [[:Bismarck, North Dakota]]
+| [[File:Symbol_c_class.svg|20px]] C
+| [{{fullurl:Special:Log|page=Bismarck,_North_Dakota}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Bismarck,%20North%20Dakota Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0/Bismarck,%20North%20Dakota Suntingan Teratas]
+|-
+| {{FORMATNUM:23}}
+| [[:2018 United States Senate election in North Dakota]]
+| [[File:Symbol_start_class.svg|20px]] Start
+| [{{fullurl:Special:Log|page=2018_United_States_Senate_election_in_North_Dakota}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/2018%20United%20States%20Senate%20election%20in%20North%20Dakota Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0/2018%20United%20States%20Senate%20election%20in%20North%20Dakota Suntingan Teratas]
+|-
+| {{FORMATNUM:23}}
+| [[:2012 United States Senate election in North Dakota]]
+| [[File:Symbol_start_class.svg|20px]] Start
+| [{{fullurl:Special:Log|page=2012_United_States_Senate_election_in_North_Dakota}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/2012%20United%20States%20Senate%20election%20in%20North%20Dakota Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0/2012%20United%20States%20Senate%20election%20in%20North%20Dakota Suntingan Teratas]
+|-
+| {{FORMATNUM:23}}
+| [[:Something About Airplanes]]
+| [[File:Symbol_c_class.svg|20px]] C
+| [{{fullurl:Special:Log|page=Something_About_Airplanes}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Something%20About%20Airplanes Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0/Something%20About%20Airplanes Suntingan Teratas]
+|-
+! colspan=4 | [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/0 Lainnya&hellip;]
+|}
+
+==== Talk ====
+
+{| class="wikitable sortable"
+! Suntingan
+! Judul halaman
+! Pranala
+|-
+| {{FORMATNUM:4}}
+| [[:Talk:Sinanthropus]]
+| [{{fullurl:Special:Log|page=Talk:Sinanthropus}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Talk:Sinanthropus Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1/Sinanthropus Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:Talk:Password Plus and Super Password]]
+| [{{fullurl:Special:Log|page=Talk:Password_Plus_and_Super_Password}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Talk:Password%20Plus%20and%20Super%20Password Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1/Password%20Plus%20and%20Super%20Password Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:Talk:Kelly Schmidt]]
+| [{{fullurl:Special:Log|page=Talk:Kelly_Schmidt}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Talk:Kelly%20Schmidt Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1/Kelly%20Schmidt Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:Talk:GH]]
+| [{{fullurl:Special:Log|page=Talk:GH}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Talk:GH Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1/GH Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:Talk:U.S. Route 83 in North Dakota]]
+| [{{fullurl:Special:Log|page=Talk:U.S._Route_83_in_North_Dakota}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Talk:U.S.%20Route%2083%20in%20North%20Dakota Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1/U.S.%20Route%2083%20in%20North%20Dakota Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:Talk:Amy Schneider]]
+| [{{fullurl:Special:Log|page=Talk:Amy_Schneider}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Talk:Amy%20Schneider Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1/Amy%20Schneider Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:Talk:North Dakota Highway 1804]]
+| [{{fullurl:Special:Log|page=Talk:North_Dakota_Highway_1804}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Talk:North%20Dakota%20Highway%201804 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1/North%20Dakota%20Highway%201804 Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:Talk:Zero-configuration networking]]
+| [{{fullurl:Special:Log|page=Talk:Zero-configuration_networking}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Talk:Zero-configuration%20networking Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1/Zero-configuration%20networking Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Talk:National Minimum Drinking Age Act]]
+| [{{fullurl:Special:Log|page=Talk:National_Minimum_Drinking_Age_Act}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Talk:National%20Minimum%20Drinking%20Age%20Act Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1/National%20Minimum%20Drinking%20Age%20Act Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Talk:Bob Barr]]
+| [{{fullurl:Special:Log|page=Talk:Bob_Barr}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Talk:Bob%20Barr Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1/Bob%20Barr Suntingan Teratas]
+|-
+! colspan=3 | [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/1 Lainnya&hellip;]
+|}
+
+==== User ====
+
+{| class="wikitable sortable"
+! Suntingan
+! Judul halaman
+! Pranala
+|-
+| {{FORMATNUM:29}}
+| [[:User:LinkTiger]]
+| [{{fullurl:Special:Log|page=User:LinkTiger}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User:LinkTiger Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/2/LinkTiger Suntingan Teratas]
+|-
+| {{FORMATNUM:10}}
+| [[:User:LinkTiger/vector.css]]
+| [{{fullurl:Special:Log|page=User:LinkTiger/vector.css}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User:LinkTiger/vector.css Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/2/LinkTiger/vector.css Suntingan Teratas]
+|-
+| {{FORMATNUM:7}}
+| [[:User:LinkTiger/vector-2022.css]]
+| [{{fullurl:Special:Log|page=User:LinkTiger/vector-2022.css}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User:LinkTiger/vector-2022.css Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/2/LinkTiger/vector-2022.css Suntingan Teratas]
+|-
+| {{FORMATNUM:6}}
+| [[:User:LinkTiger/sandbox]]
+| [{{fullurl:Special:Log|page=User:LinkTiger/sandbox}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User:LinkTiger/sandbox Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/2/LinkTiger/sandbox Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:User:Yrithinnd/Commons/L]]
+| [{{fullurl:Special:Log|page=User:Yrithinnd/Commons/L}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User:Yrithinnd/Commons/L Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/2/Yrithinnd/Commons/L Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:User:LinkTiger/featured]]
+| [{{fullurl:Special:Log|page=User:LinkTiger/featured}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User:LinkTiger/featured Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/2/LinkTiger/featured Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:User:LinkTiger/7th Critics&#039; Choice Documentary Awards]]
+| [{{fullurl:Special:Log|page=User:LinkTiger/7th_Critics&#039;_Choice_Documentary_Awards}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User:LinkTiger/7th%20Critics%27%20Choice%20Documentary%20Awards Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/2/LinkTiger/7th%20Critics%27%20Choice%20Documentary%20Awards Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:User:Sj/olpc dictionary images/200]]
+| [{{fullurl:Special:Log|page=User:Sj/olpc_dictionary_images/200}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User:Sj/olpc%20dictionary%20images/200 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/2/Sj/olpc%20dictionary%20images/200 Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:User:Sahir Saiyad]]
+| [{{fullurl:Special:Log|page=User:Sahir_Saiyad}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User:Sahir%20Saiyad Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/2/Sahir%20Saiyad Suntingan Teratas]
+|}
+
+==== User talk ====
+
+{| class="wikitable sortable"
+! Suntingan
+! Judul halaman
+! Pranala
+|-
+| {{FORMATNUM:13}}
+| [[:User talk:LinkTiger]]
+| [{{fullurl:Special:Log|page=User_talk:LinkTiger}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User%20talk:LinkTiger Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3/LinkTiger Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:User talk:73.44.98.2]]
+| [{{fullurl:Special:Log|page=User_talk:73.44.98.2}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User%20talk:73.44.98.2 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3/73.44.98.2 Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:User talk:24.38.185.65]]
+| [{{fullurl:Special:Log|page=User_talk:24.38.185.65}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User%20talk:24.38.185.65 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3/24.38.185.65 Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:User talk:Shell Kinney]]
+| [{{fullurl:Special:Log|page=User_talk:Shell_Kinney}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User%20talk:Shell%20Kinney Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3/Shell%20Kinney Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:User talk:24.118.153.75]]
+| [{{fullurl:Special:Log|page=User_talk:24.118.153.75}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User%20talk:24.118.153.75 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3/24.118.153.75 Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:User talk:LinkTiger/Archive 1]]
+| [{{fullurl:Special:Log|page=User_talk:LinkTiger/Archive_1}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User%20talk:LinkTiger/Archive%201 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3/LinkTiger/Archive%201 Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:User talk:2600:1014:B00D:CFBD:7914:5A33:C2B0:65A6]]
+| [{{fullurl:Special:Log|page=User_talk:2600:1014:B00D:CFBD:7914:5A33:C2B0:65A6}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User%20talk:2600:1014:B00D:CFBD:7914:5A33:C2B0:65A6 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3/2600:1014:B00D:CFBD:7914:5A33:C2B0:65A6 Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:User talk:Arms &amp; Hearts/Archive 2]]
+| [{{fullurl:Special:Log|page=User_talk:Arms_&amp;_Hearts/Archive_2}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User%20talk:Arms%20%26%20Hearts/Archive%202 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3/Arms%20%26%20Hearts/Archive%202 Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:User talk:XRT998]]
+| [{{fullurl:Special:Log|page=User_talk:XRT998}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User%20talk:XRT998 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3/XRT998 Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:User talk:75.168.28.180]]
+| [{{fullurl:Special:Log|page=User_talk:75.168.28.180}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/User%20talk:75.168.28.180 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3/75.168.28.180 Suntingan Teratas]
+|-
+! colspan=3 | [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/3 Lainnya&hellip;]
+|}
+
+==== Wikipedia ====
+
+{| class="wikitable sortable"
+! Suntingan
+! Judul halaman
+! Pranala
+|-
+| {{FORMATNUM:4}}
+| [[:Wikipedia:Wikipedia CD Selection]]
+| [{{fullurl:Special:Log|page=Wikipedia:Wikipedia_CD_Selection}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Wikipedia:Wikipedia%20CD%20Selection Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4/Wikipedia%20CD%20Selection Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:Wikipedia:Administrator intervention against vandalism]]
+| [{{fullurl:Special:Log|page=Wikipedia:Administrator_intervention_against_vandalism}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Wikipedia:Administrator%20intervention%20against%20vandalism Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4/Administrator%20intervention%20against%20vandalism Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:Wikipedia:Biographies of living persons/Noticeboard]]
+| [{{fullurl:Special:Log|page=Wikipedia:Biographies_of_living_persons/Noticeboard}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Wikipedia:Biographies%20of%20living%20persons/Noticeboard Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4/Biographies%20of%20living%20persons/Noticeboard Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:Wikipedia:Requests for page protection]]
+| [{{fullurl:Special:Log|page=Wikipedia:Requests_for_page_protection}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Wikipedia:Requests%20for%20page%20protection Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4/Requests%20for%20page%20protection Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:Wikipedia:Files for deletion/2014 March 24]]
+| [{{fullurl:Special:Log|page=Wikipedia:Files_for_deletion/2014_March_24}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Wikipedia:Files%20for%20deletion/2014%20March%2024 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4/Files%20for%20deletion/2014%20March%2024 Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:Wikipedia:WikiProject North Dakota/to do]]
+| [{{fullurl:Special:Log|page=Wikipedia:WikiProject_North_Dakota/to_do}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Wikipedia:WikiProject%20North%20Dakota/to%20do Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4/WikiProject%20North%20Dakota/to%20do Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:Wikipedia:Articles for deletion/Joe Locke (actor)]]
+| [{{fullurl:Special:Log|page=Wikipedia:Articles_for_deletion/Joe_Locke_(actor)}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Wikipedia:Articles%20for%20deletion/Joe%20Locke%20%28actor%29 Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4/Articles%20for%20deletion/Joe%20Locke%20%28actor%29 Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Wikipedia:Articles for deletion/Charles Wachter]]
+| [{{fullurl:Special:Log|page=Wikipedia:Articles_for_deletion/Charles_Wachter}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Wikipedia:Articles%20for%20deletion/Charles%20Wachter Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4/Articles%20for%20deletion/Charles%20Wachter Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Wikipedia:Articles for deletion/1957 Fargo Tornado]]
+| [{{fullurl:Special:Log|page=Wikipedia:Articles_for_deletion/1957_Fargo_Tornado}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Wikipedia:Articles%20for%20deletion/1957%20Fargo%20Tornado Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4/Articles%20for%20deletion/1957%20Fargo%20Tornado Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Wikipedia:Media copyright questions]]
+| [{{fullurl:Special:Log|page=Wikipedia:Media_copyright_questions}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Wikipedia:Media%20copyright%20questions Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4/Media%20copyright%20questions Suntingan Teratas]
+|-
+! colspan=3 | [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/4 Lainnya&hellip;]
+|}
+
+==== Wikipedia talk ====
+
+{| class="wikitable sortable"
+! Suntingan
+! Judul halaman
+! Pranala
+|-
+| {{FORMATNUM:1}}
+| [[:Wikipedia talk:Non-free use rationale guideline]]
+| [{{fullurl:Special:Log|page=Wikipedia_talk:Non-free_use_rationale_guideline}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Wikipedia%20talk:Non-free%20use%20rationale%20guideline Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/5/Non-free%20use%20rationale%20guideline Suntingan Teratas]
+|}
+
+==== File ====
+
+{| class="wikitable sortable"
+! Suntingan
+! Judul halaman
+! Pranala
+|-
+| {{FORMATNUM:3}}
+| [[:File:TheForumOfFargoMoorhead.png]]
+| [{{fullurl:Special:Log|page=File:TheForumOfFargoMoorhead.png}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/File:TheForumOfFargoMoorhead.png Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6/TheForumOfFargoMoorhead.png Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:File:PasswordPlus.jpg]]
+| [{{fullurl:Special:Log|page=File:PasswordPlus.jpg}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/File:PasswordPlus.jpg Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6/PasswordPlus.jpg Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:File:The Bismarck Tribune front page.jpg]]
+| [{{fullurl:Special:Log|page=File:The_Bismarck_Tribune_front_page.jpg}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/File:The%20Bismarck%20Tribune%20front%20page.jpg Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6/The%20Bismarck%20Tribune%20front%20page.jpg Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:File:SuperPassword.jpg]]
+| [{{fullurl:Special:Log|page=File:SuperPassword.jpg}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/File:SuperPassword.jpg Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6/SuperPassword.jpg Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:File:North Dakota Attorney General shield.png]]
+| [{{fullurl:Special:Log|page=File:North_Dakota_Attorney_General_shield.png}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/File:North%20Dakota%20Attorney%20General%20shield.png Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6/North%20Dakota%20Attorney%20General%20shield.png Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:File:Bell Bank Logo.png]]
+| [{{fullurl:Special:Log|page=File:Bell_Bank_Logo.png}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/File:Bell%20Bank%20Logo.png Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6/Bell%20Bank%20Logo.png Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:File:North Dakota Republican Party Logo.png]]
+| [{{fullurl:Special:Log|page=File:North_Dakota_Republican_Party_Logo.png}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/File:North%20Dakota%20Republican%20Party%20Logo.png Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6/North%20Dakota%20Republican%20Party%20Logo.png Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:File:USS Enterprise (NCC-1701), ENT1231.jpg]]
+| [{{fullurl:Special:Log|page=File:USS_Enterprise_(NCC-1701),_ENT1231.jpg}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/File:USS%20Enterprise%20%28NCC-1701%29,%20ENT1231.jpg Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6/USS%20Enterprise%20%28NCC-1701%29,%20ENT1231.jpg Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:File:North Dakota Department of Agriculture logo.png]]
+| [{{fullurl:Special:Log|page=File:North_Dakota_Department_of_Agriculture_logo.png}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/File:North%20Dakota%20Department%20of%20Agriculture%20logo.png Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6/North%20Dakota%20Department%20of%20Agriculture%20logo.png Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:File:Enterprise NX-01.jpg]]
+| [{{fullurl:Special:Log|page=File:Enterprise_NX-01.jpg}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/File:Enterprise%20NX-01.jpg Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6/Enterprise%20NX-01.jpg Suntingan Teratas]
+|-
+! colspan=3 | [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/6 Lainnya&hellip;]
+|}
+
+==== Template ====
+
+{| class="wikitable sortable"
+! Suntingan
+! Judul halaman
+! Pranala
+|-
+| {{FORMATNUM:9}}
+| [[:Template:Elections in North Dakota sidebar]]
+| [{{fullurl:Special:Log|page=Template:Elections_in_North_Dakota_sidebar}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template:Elections%20in%20North%20Dakota%20sidebar Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10/Elections%20in%20North%20Dakota%20sidebar Suntingan Teratas]
+|-
+| {{FORMATNUM:8}}
+| [[:Template:North Dakota party affiliation count]]
+| [{{fullurl:Special:Log|page=Template:North_Dakota_party_affiliation_count}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template:North%20Dakota%20party%20affiliation%20count Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10/North%20Dakota%20party%20affiliation%20count Suntingan Teratas]
+|-
+| {{FORMATNUM:4}}
+| [[:Template:Elections in North Dakota footer]]
+| [{{fullurl:Special:Log|page=Template:Elections_in_North_Dakota_footer}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template:Elections%20in%20North%20Dakota%20footer Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10/Elections%20in%20North%20Dakota%20footer Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:Template:Election box write-in with party link no change]]
+| [{{fullurl:Special:Log|page=Template:Election_box_write-in_with_party_link_no_change}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template:Election%20box%20write-in%20with%20party%20link%20no%20change Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10/Election%20box%20write-in%20with%20party%20link%20no%20change Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:Template:North Dakota State Government]]
+| [{{fullurl:Special:Log|page=Template:North_Dakota_State_Government}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template:North%20Dakota%20State%20Government Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10/North%20Dakota%20State%20Government Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:Template:Politics of North Dakota]]
+| [{{fullurl:Special:Log|page=Template:Politics_of_North_Dakota}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template:Politics%20of%20North%20Dakota Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10/Politics%20of%20North%20Dakota Suntingan Teratas]
+|-
+| {{FORMATNUM:3}}
+| [[:Template:Bismarck-Mandan]]
+| [{{fullurl:Special:Log|page=Template:Bismarck-Mandan}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template:Bismarck-Mandan Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10/Bismarck-Mandan Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:Template:Ford of Europe]]
+| [{{fullurl:Special:Log|page=Template:Ford_of_Europe}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template:Ford%20of%20Europe Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10/Ford%20of%20Europe Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:Template:Democratic State Chairs]]
+| [{{fullurl:Special:Log|page=Template:Democratic_State_Chairs}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template:Democratic%20State%20Chairs Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10/Democratic%20State%20Chairs Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Template:AFL-CIO]]
+| [{{fullurl:Special:Log|page=Template:AFL-CIO}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template:AFL-CIO Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10/AFL-CIO Suntingan Teratas]
+|-
+! colspan=3 | [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/10 Lainnya&hellip;]
+|}
+
+==== Template talk ====
+
+{| class="wikitable sortable"
+! Suntingan
+! Judul halaman
+! Pranala
+|-
+| {{FORMATNUM:3}}
+| [[:Template talk:Infobox American State Political Party]]
+| [{{fullurl:Special:Log|page=Template_talk:Infobox_American_State_Political_Party}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template%20talk:Infobox%20American%20State%20Political%20Party Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/11/Infobox%20American%20State%20Political%20Party Suntingan Teratas]
+|-
+| {{FORMATNUM:2}}
+| [[:Template talk:Non-free use rationale logo]]
+| [{{fullurl:Special:Log|page=Template_talk:Non-free_use_rationale_logo}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template%20talk:Non-free%20use%20rationale%20logo Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/11/Non-free%20use%20rationale%20logo Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Template talk:GeoTemplate]]
+| [{{fullurl:Special:Log|page=Template_talk:GeoTemplate}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template%20talk:GeoTemplate Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/11/GeoTemplate Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Template talk:US Senate Budget chairs]]
+| [{{fullurl:Special:Log|page=Template_talk:US_Senate_Budget_chairs}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template%20talk:US%20Senate%20Budget%20chairs Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/11/US%20Senate%20Budget%20chairs Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Template talk:Infobox U.S. county]]
+| [{{fullurl:Special:Log|page=Template_talk:Infobox_U.S._county}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Template%20talk:Infobox%20U.S.%20county Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/11/Infobox%20U.S.%20county Suntingan Teratas]
+|}
+
+==== Category ====
+
+{| class="wikitable sortable"
+! Suntingan
+! Judul halaman
+! Pranala
+|-
+| {{FORMATNUM:2}}
+| [[:Category:University of Jamestown alumni]]
+| [{{fullurl:Special:Log|page=Category:University_of_Jamestown_alumni}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Category:University%20of%20Jamestown%20alumni Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14/University%20of%20Jamestown%20alumni Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Category:LGBTQ political advocacy groups in Michigan]]
+| [{{fullurl:Special:Log|page=Category:LGBTQ_political_advocacy_groups_in_Michigan}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Category:LGBTQ%20political%20advocacy%20groups%20in%20Michigan Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14/LGBTQ%20political%20advocacy%20groups%20in%20Michigan Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Category:Tango people]]
+| [{{fullurl:Special:Log|page=Category:Tango_people}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Category:Tango%20people Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14/Tango%20people Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Category:Myst games]]
+| [{{fullurl:Special:Log|page=Category:Myst_games}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Category:Myst%20games Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14/Myst%20games Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Category:Lists of state constitutional officers of North Dakota]]
+| [{{fullurl:Special:Log|page=Category:Lists_of_state_constitutional_officers_of_North_Dakota}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Category:Lists%20of%20state%20constitutional%20officers%20of%20North%20Dakota Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14/Lists%20of%20state%20constitutional%20officers%20of%20North%20Dakota Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Category:Bismarck–Mandan]]
+| [{{fullurl:Special:Log|page=Category:Bismarck–Mandan}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Category:Bismarck%E2%80%93Mandan Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14/Bismarck%E2%80%93Mandan Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Category:Fargo–Moorhead]]
+| [{{fullurl:Special:Log|page=Category:Fargo–Moorhead}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Category:Fargo%E2%80%93Moorhead Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14/Fargo%E2%80%93Moorhead Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Category:Greater Grand Forks]]
+| [{{fullurl:Special:Log|page=Category:Greater_Grand_Forks}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Category:Greater%20Grand%20Forks Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14/Greater%20Grand%20Forks Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Category:People from Jamestown, North Dakota]]
+| [{{fullurl:Special:Log|page=Category:People_from_Jamestown,_North_Dakota}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Category:People%20from%20Jamestown,%20North%20Dakota Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14/People%20from%20Jamestown,%20North%20Dakota Suntingan Teratas]
+|-
+| {{FORMATNUM:1}}
+| [[:Category:Mandan, North Dakota]]
+| [{{fullurl:Special:Log|page=Category:Mandan,_North_Dakota}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Category:Mandan,%20North%20Dakota Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14/Mandan,%20North%20Dakota Suntingan Teratas]
+|-
+! colspan=3 | [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/14 Lainnya&hellip;]
+|}
+
+==== Module talk ====
+
+{| class="wikitable sortable"
+! Suntingan
+! Judul halaman
+! Pranala
+|-
+| {{FORMATNUM:1}}
+| [[:Module talk:Location map/data/USA Washington, D.C. central/attribution]]
+| [{{fullurl:Special:Log|page=Module_talk:Location_map/data/USA_Washington,_D.C._central/attribution}} Log] &middot; [https://xtools.wmcloud.org/pageinfo/en.wikipedia.org/Module%20talk:Location%20map/data/USA%20Washington,%20D.C.%20central/attribution Riwayat Halaman] &middot; [https://xtools.wmcloud.org/topedits/en.wikipedia.org/LinkTiger/829/Location%20map/data/USA%20Washington,%20D.C.%20central/attribution Suntingan Teratas]
+|}
+
+=== Pengubahan hak ===
+
+{| class="wikitable sortable"
+|-
+! Tanggal
+! Hak
+! Pelaksana
+! Ringkasan
+|-
+| style="white-space: nowrap;" | [[Special:Redirect/logid/73812177|2016-04-06 02:37]]
+| <span style="color:#006400">+pengguna terkonfirmasi diperluas</span>
+|
+| ''Otomatis''
+|-
+| style="white-space: nowrap;" | 2005-08-30 00:55
+| <span style="color:#006400">+pengguna terkonfirmasi otomatis</span>
+|
+| ''Otomatis''
+|}
+
+
+
+Semua waktu dalam UTC.
